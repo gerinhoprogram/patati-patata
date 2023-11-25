@@ -1,0 +1,90 @@
+/*!
+ *  Font Awesome 4.7.0 by @davegandy - http://fontawesome.io - @fontawesome
+ *  License - http://fontawesome.io/license (Font: SIL OFL 1.1, CSS: MIT License)
+ */
+
+@font-face {
+    font-family: 'FontAwesome';
+    src: url('../fonts/fontawesome-webfont.eot?#iefix&v=4.7.0') format('embedded-opentype'), url('../fonts/fontawesome-webfont.woff2?v=4.7.0') format('woff2'), url('../fonts/fontawesome-webfont.woff?v=4.7.0') format('woff'), url('../fonts/fontawesome-webfont.ttf?v=4.7.0') format('truetype'), url('../fonts/fontawesome-webfont.svg?v=4.7.0#fontawesomeregular') format('svg');
+}
+
+.fa {
+    display: inline-block;
+    font: normal normal normal 14px/1 FontAwesome;
+    font-size: inherit;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale
+}
+
+.fa-2x {
+    font-size: 2em
+}
+
+.fa-3x {
+    font-size: 3em
+}
+
+.fa-4x {
+    font-size: 4em
+}
+
+.fa-5x {
+    font-size: 5em
+}
+
+.fa-chevron-up:before {
+    content: "\f077"
+}
+
+.fa-chevron-left:before {
+    content: "\f053"
+}
+
+.fa-chevron-right:before {
+    content: "\f054"
+}
+
+.fa-chevron-down:before {
+    content: "\f078"
+}
+
+.fa-whatsapp:before {
+    content: "\f232"
+}
+
+.fa-linkedin:before {
+    content: "\f0e1"
+}
+
+.fa-instagram:before {
+    content: "\f16d"
+}
+
+.fa-facebook:before {
+    content: "\f09a"
+}
+
+.fa-search:before {
+    content: "\f002"
+}
+
+.fa-bullseye:before {
+    content: "\f140"
+}
+
+.fa-bars:before {
+    content: "\f0c9"
+}
+
+.fa-times:before {
+    content: "\f00d"
+}
+
+.fa-envelope-o:before {
+    content: "\f003"
+}
+
+.fa-youtube-play:before {
+    content: "\f16a";
+}

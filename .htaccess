@@ -1,0 +1,10 @@
+Options +FollowSymLinks
+Options -MultiViews
+
+IndexIgnore *
+Options -Indexes
+
+RewriteEngine On
+
+#PÁGINAS SIMPLES
+RewriteRule ^home/?$ index.php [NC,L]
